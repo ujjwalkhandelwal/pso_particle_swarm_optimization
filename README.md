@@ -2,6 +2,8 @@
 [![GitHub license](https://img.shields.io/github/license/ujjwalkhandelwal/pso_particle_swarm_optimization)](https://github.com/ujjwalkhandelwal/pso_particle_swarm_optimization/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/ujjwalkhandelwal/pso_particle_swarm_optimization?style=flat-square
 )](https://github.com/ujjwalkhandelwal/pso_particle_swarm_optimization/issues)
+![GitHub forks](https://img.shields.io/github/forks/ujjwalkhandelwal/pso_particle_swarm_optimization?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/ujjwalkhandelwal/pso_particle_swarm_optimization?style=flat-square)
 
 Implemented fully documented Particle Swarm Optimization (PSO) algorithm in Python which includes a basic model along with covering few advanced features such as **updating weight inertia, cognitive, social learning coefficients and maximum velocity of the particle**.  
 

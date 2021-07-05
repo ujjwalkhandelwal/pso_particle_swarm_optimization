@@ -8,7 +8,7 @@
 Implemented fully documented Particle Swarm Optimization (PSO) algorithm in Python which includes a basic model along with few advanced features such as **updating inertia weight, cognitive, social learning coefficients and maximum velocity of the particle**.  
 
 ## Utilities
-Once the installation is finished (download or cloning), follow the below simple guidelines to execute PSO effectively.
+Once the installation is finished (download or cloning), go the pso folder and follow the below simple guidelines to execute PSO effectively (either write the code in command line or in a python editor).
 ```py
 >>> from pso import PSO
 ```

@@ -1,9 +1,9 @@
 
 ################################################################################
 #                                                                              #
-#	  UJJWAL KHANDELWAL                                                          #    
-#	  PSO (PARTICLE SWARM OPTIMIZATION)                                          #
-#	  PYTHON 3.7.10                                                              #
+#	  UJJWAL KHANDELWAL                                                       #    
+#	  PSO (PARTICLE SWARM OPTIMIZATION)                                       #
+#	  PYTHON 3.7.10                                                           #
 #                                                                              #
 ################################################################################
 
